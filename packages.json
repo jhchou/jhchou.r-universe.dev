@@ -2,5 +2,9 @@
     {
         "package": "peditools",
         "url": "https://github.com/jhchou/peditools"
+    },
+    {
+        "package": "peditools2",
+        "url": "https://github.com/jhchou/peditools2"
     }
 ]
